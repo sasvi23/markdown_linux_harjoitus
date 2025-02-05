@@ -17,7 +17,7 @@ Sasvi Ranasinghe, BEIRP24A6
 
 *This is an Italic text*
 
-[Youtube](https://youtube.com)
+[Link example](https://youtube.com)
 
 \`\`\`markdown
 # Code Block Example
@@ -28,6 +28,5 @@ print("Hello, world!")
 |------|-----|
 | anna | 26  |
 
-![Tulip Flower](https://isorepublic.com/photo/tulip-flower-macro/)
-
+![Image description](https://https://images.app.goo.gl/etz4XS61fQRcSD8P9/image.jpg)
 
